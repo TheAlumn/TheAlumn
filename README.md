@@ -15,9 +15,3 @@ Verified collaboration platform for alumni, builders, and talents from digital s
   </a>
   <img src="https://img.shields.io/badge/Community-Alumni%20Builders-blueviolet?style=for-the-badge" alt="Community"/>
 </p>
-
----
-
-## 🤝 Contributing  
-This repo is the home of **TheAlumn vision and documentation**.  
-- Contributions, discussions, and feedback are welcome!
