@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://www.thealumn.com/assets/Alumn%20logo-ksyPZSR_.png" alt="TheAlumn Logo" width="140"/>
+</p>
 
-<!--
-**TheAlumn/TheAlumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">TheAlumn</h1>
 
-Here are some ideas to get you started:
+<p align="center"><b>
+Verified collaboration platform for alumni, builders, and talents from digital schools and institutions worldwide to connect, showcase projects, and grow together.
+</b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Project Status"/>
+  <a href="https://github.com/TheAlumn/TheAlumn/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
+  </a>
+  <img src="https://img.shields.io/badge/Community-Alumni%20Builders-blueviolet?style=for-the-badge" alt="Community"/>
+</p>
+
+---
+
+## 🤝 Contributing  
+This repo is the home of **TheAlumn vision and documentation**.  
+- Contributions, discussions, and feedback are welcome!
+
+---
+
+## 📜 License  
+Licensed under the [MIT License](LICENSE).  
