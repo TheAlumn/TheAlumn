@@ -21,8 +21,3 @@ Verified collaboration platform for alumni, builders, and talents from digital s
 ## 🤝 Contributing  
 This repo is the home of **TheAlumn vision and documentation**.  
 - Contributions, discussions, and feedback are welcome!
-
----
-
-## 📜 License  
-Licensed under the [MIT License](LICENSE).  
